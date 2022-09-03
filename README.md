@@ -1,4 +1,4 @@
-# Niche articles
+# Niche articles by passionate hobbyists & professionals
 
 ## Games
 
