@@ -1,2 +1,19 @@
-# niche-articles
-Long read deep dives into very specific topics
+# Niche articles
+
+## Games
+
+| Title | Platform | Author |
+| --- | --- | --- |
+| [Finding Deceit in the Chambers of Xenobia](Finding Deceit in the Chambers of Xenobia) | Computer Gaming World Museum | Stephane Racle |
+
+## Space
+
+| Title | Platform | Author |
+| --- | --- | --- |
+| [Knots on Mars! (and a few thoughts on NASA's knots)](https://igkt.net/sm/index.php?topic=4028.0) | International Guild of Knot Tyers Forum | David J. Fred |
+
+## Technology
+
+| Title | Platform | Author |
+| --- | --- | --- |
+| [Reversing Sinclair's amazing 1974 calculator hack](http://files.righto.com/calculator/sinclair_scientific_simulator.html) | Ken Sheriff's blog | Ken Sheriff |
