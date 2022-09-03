@@ -4,7 +4,7 @@
 
 | Title | Platform | Author |
 | --- | --- | --- |
-| [Finding Deceit in the Chambers of Xenobia](Finding Deceit in the Chambers of Xenobia) | Computer Gaming World Museum | Stephane Racle |
+| [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | Computer Gaming World Museum | Stephane Racle |
 
 ## Space
 
