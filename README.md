@@ -24,3 +24,9 @@
 | Title | Keywords | Platform | Author |
 | --- | --- | --- | --- |
 | [Reversing Sinclair's amazing 1974 calculator hack](http://files.righto.com/calculator/sinclair_scientific_simulator.html) | computer history, reverse engineering, mathematics | Ken Sheriff's blog | Ken Sheriff |
+
+## Toys
+
+| Title | Keywords | Platform | Author |
+| --- | --- | --- | --- |
+| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, lego | Interaction Magic | George Cave |
