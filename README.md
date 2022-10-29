@@ -4,7 +4,8 @@
 
 | Title | Keywords | Platform | Author |
 | --- | --- | --- | --- |
-| [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | retro gaming, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
+| [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) | gaming history, gaming tropes | YouTube | Stuart Brown |
+| [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
 ## Music
 
