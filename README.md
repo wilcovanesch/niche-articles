@@ -6,6 +6,12 @@
 | --- | --- | --- |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | Computer Gaming World Museum | Stephane Racle |
 
+## Music
+
+| Title | Platform | Author |
+| --- | --- | --- |
+| [Can I get an amen?](https://www.youtube.com/watch?v=XPoxZW8JzzM) | YouTube | Nate Harrison |
+
 ## Space
 
 | Title | Platform | Author |
