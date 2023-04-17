@@ -4,14 +4,14 @@
 
 | Title | Keywords | Platform | Author |
 | --- | --- | --- | --- |
-| [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) | gaming history, gaming tropes | YouTube | Stuart Brown |
+| [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video) | gaming history, gaming tropes | YouTube | Stuart Brown |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
 ## Music
 
 | Title | Keywords | Platform | Author |
 | --- | --- | --- | --- |
-| [Can I get an amen?](https://www.youtube.com/watch?v=XPoxZW8JzzM) | drum break, sampling, popular music | YouTube | Nate Harrison |
+| [Can I get an amen?](https://www.youtube.com/watch?v=XPoxZW8JzzM) (video) | drum break, sampling, popular music | YouTube | Nate Harrison |
 
 ## Space
 
