@@ -30,3 +30,9 @@
 | Title | Keywords | Platform | Author |
 | --- | --- | --- | --- |
 | [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, lego | Interaction Magic | George Cave |
+
+## Web culture
+
+| Title | Keywords | Platform | Author |
+| --- | --- | --- | --- |
+| [In Search Of Wikipedia's Shrug Guy](https://defector.com/in-search-of-wikipedias-shrug-guy) | wikipedia, shrugging, whodunit | Defector | Annie Rauwerda |
