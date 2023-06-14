@@ -7,6 +7,12 @@
 | [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                  | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
+## History
+
+| Title                                                                     | Keywords                            | Platform | Author        |
+| ------------------------------------------------------------------------- | ----------------------------------- | -------- | ------------- |
+| [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, game of thrones | Medium | Lyman Stone |
+
 ## Music
 
 | Title                                                                     | Keywords                            | Platform | Author        |
