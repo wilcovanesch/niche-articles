@@ -1,5 +1,11 @@
 # Niche articles and videos by passionate subject matter experts
 
+## Design
+
+| Title                                                                               | Keywords                    | Platform          | Author      |
+| ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
+| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, lego | Interaction Magic | George Cave |
+
 ## Games
 
 | Title                                                                                     | Keywords                                                 | Platform                     | Author         |
@@ -31,12 +37,6 @@
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ | ------------ |
 | [Reversing Sinclair's amazing 1974 calculator hack](http://files.righto.com/calculator/sinclair_scientific_simulator.html) | computer history, reverse engineering, mathematics | Ken Sheriff's blog | Ken Sheriff  |
 | [Wallace's Leaping Tank](https://tanks-encyclopedia.com/wallace-leaping-tank/)                                             | military vehicles, military history, engineering   | Tank Encyclopedia  | Andrew Hills |
-
-## Toys
-
-| Title                                                                               | Keywords                    | Platform          | Author      |
-| ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
-| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, lego | Interaction Magic | George Cave |
 
 ## Web culture
 
