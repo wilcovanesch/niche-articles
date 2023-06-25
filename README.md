@@ -1,4 +1,6 @@
-# Niche articles and videos by passionate hobbyists or subject matter experts
+# Niche articles and videos by passionate hobbyists
+
+This is a collection of deep dives into very specific topics, written or recorded by hobbyists or subject matter experts. The appeal is in the passionate, uniquely individual, finely detailed takes on niche subjects. This is in contrast to journalistic longreads. A perfect example is [Knots on Mars! (and a few thoughts on NASA's knots)](https://igkt.net/sm/index.php?topic=4028.0), about cable lacing on the Curiosity rover. Not all links collected here are perfect examples, but they're not far off.
 
 ## Art
 
