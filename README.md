@@ -1,5 +1,11 @@
 # Niche articles and videos by passionate hobbyists or subject matter experts
 
+## Art
+
+| Title                                                                               | Keywords                    | Platform          | Author      |
+| ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
+| [The Restoration of Ave Maria (Narrated Version)](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube | Julian Baumgartner |
+
 ## Design
 
 | Title                                                                               | Keywords                    | Platform          | Author      |
