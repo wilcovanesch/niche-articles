@@ -1,4 +1,4 @@
-# Niche articles and videos by passionate subject matter experts
+# Niche articles and videos by passionate hobbyists or subject matter experts
 
 ## Design
 
@@ -10,6 +10,7 @@
 
 | Title                                                                                     | Keywords                                                 | Platform                     | Author         |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------- | -------------- |
+| [8 Common Horse Mistakes I Want Game Developers to Stop Making](https://www.themanequest.com/blog/2021/8/22/8-common-horse-mistakes-i-want-game-developers-to-stop-making) | game development, biomechanics, horses | The Mane Quest | Alice Walsh |
 | [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                  | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
