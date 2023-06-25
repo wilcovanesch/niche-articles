@@ -6,7 +6,7 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 | Title                                                                               | Keywords                    | Platform          | Author      |
 | ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
-| [The Restoration of Ave Maria (Narrated Version)](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube | Julian Baumgartner |
+| [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube | Julian Baumgartner |
 
 ## Design
 
