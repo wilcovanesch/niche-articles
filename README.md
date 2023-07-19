@@ -22,6 +22,15 @@ This is a collection of deep dives into very specific topics, written or recorde
 | [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                                                                                                   | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5)                                                                                  | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
+## Hardware bugs
+
+| Title                                                                                                                        | Keywords                                          | Platform          | Author       |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------- | ------------ |
+| [My Hardest Bug Ever](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett) | Crash Bandicoot, Playstation, hardware, debugging | Quora             | Dave Baggett |
+| [The Great Bug Hunt](https://allenpike.com/2018/the-great-bug-hunt)                                                          | Xbox, crash, hardware, investigative              | Allen Pike's blog | Allen Pike   |
+
+| [The Best Debugging Story I've Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard) | Tape drive, hardware, investigative | Tumblr | Patrick Thomson |
+
 ## History
 
 | Title                                                                                                       | Keywords                            | Platform | Author      |
@@ -42,9 +51,10 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Software bugs
 
-| Title                                                                             | Keywords                             | Platform | Author      |
-| --------------------------------------------------------------------------------- | ------------------------------------ | -------- | ----------- |
-| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) | email, bug, debugging, investigative | ibiblio  | Trey Harris |
+| Title                                                                                                                                           | Keywords                                | Platform | Author      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- | ----------- |
+| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative    | ibiblio  | Trey Harris |
+| [Can't stream rock music, only classical](https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging | Reddit   | Mike Ash    |
 
 ## Technology
 
