@@ -24,12 +24,11 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Hardware bugs
 
-| Title                                                                                                                        | Keywords                                          | Platform          | Author       |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------- | ------------ |
-| [My Hardest Bug Ever](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett) | Crash Bandicoot, Playstation, hardware, debugging | Quora             | Dave Baggett |
-| [The Great Bug Hunt](https://allenpike.com/2018/the-great-bug-hunt)                                                          | Xbox, crash, hardware, investigative              | Allen Pike's blog | Allen Pike   |
-
-| [The Best Debugging Story I've Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard) | Tape drive, hardware, investigative | Tumblr | Patrick Thomson |
+| Title                                                                                                                                 | Keywords                                          | Platform          | Author          |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------- | --------------- |
+| [My Hardest Bug Ever](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett)          | Crash Bandicoot, Playstation, hardware, debugging | Quora             | Dave Baggett    |
+| [The Great Bug Hunt](https://allenpike.com/2018/the-great-bug-hunt)                                                                   | Xbox, crash, hardware, investigative              | Allen Pike's blog | Allen Pike      |
+| [The Best Debugging Story I've Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard) | Tape drive, hardware, investigative               | Tumblr            | Patrick Thomson |
 
 ## History
 
