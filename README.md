@@ -4,9 +4,9 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Art
 
-| Title                                                                               | Keywords                    | Platform          | Author      |
-| ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
-| [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube | Julian Baumgartner |
+| Title                                                                                                  | Keywords              | Platform | Author             |
+| ------------------------------------------------------------------------------------------------------ | --------------------- | -------- | ------------------ |
+| [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube  | Julian Baumgartner |
 
 ## Design
 
@@ -16,17 +16,17 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Games
 
-| Title                                                                                     | Keywords                                                 | Platform                     | Author         |
-| ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------- | -------------- |
-| [8 Common Horse Mistakes I Want Game Developers to Stop Making](https://www.themanequest.com/blog/2021/8/22/8-common-horse-mistakes-i-want-game-developers-to-stop-making) | game development, biomechanics, horses | The Mane Quest | Alice Walsh |
-| [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                  | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
-| [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5) | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
+| Title                                                                                                                                                                      | Keywords                                                 | Platform                     | Author         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------- | -------------- |
+| [8 Common Horse Mistakes I Want Game Developers to Stop Making](https://www.themanequest.com/blog/2021/8/22/8-common-horse-mistakes-i-want-game-developers-to-stop-making) | game development, biomechanics, horses                   | The Mane Quest               | Alice Walsh    |
+| [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                                                                                                   | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
+| [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5)                                                                                  | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
 ## History
 
-| Title                                                                     | Keywords                            | Platform | Author        |
-| ------------------------------------------------------------------------- | ----------------------------------- | -------- | ------------- |
-| [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, game of thrones | Medium | Lyman Stone |
+| Title                                                                                                       | Keywords                            | Platform | Author      |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ----------- |
+| [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, game of thrones | Medium   | Lyman Stone |
 
 ## Music
 
@@ -39,6 +39,12 @@ This is a collection of deep dives into very specific topics, written or recorde
 | Title                                                                                             | Keywords                                    | Platform                                | Author        |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------- | ------------- |
 | [Knots on Mars! (and a few thoughts on NASA's knots)](https://igkt.net/sm/index.php?topic=4028.0) | knots, cable lacing, aerospace, engineering | International Guild of Knot Tyers Forum | David J. Fred |
+
+## Software bugs
+
+| Title                                                                             | Keywords                             | Platform | Author      |
+| --------------------------------------------------------------------------------- | ------------------------------------ | -------- | ----------- |
+| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) | email, bug, debugging, investigative | ibiblio  | Trey Harris |
 
 ## Technology
 
