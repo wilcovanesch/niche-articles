@@ -42,6 +42,12 @@ This is a collection of deep dives into very specific topics, written or recorde
 | ------------------------------------------------------------------------- | ----------------------------------- | -------- | ------------- |
 | [Can I get an amen?](https://www.youtube.com/watch?v=XPoxZW8JzzM) (video) | drum break, sampling, popular music | YouTube  | Nate Harrison |
 
+## Physics
+
+| Title                                     | Keywords                   | Platform                    | Author               |
+| ----------------------------------------- | -------------------------- | --------------------------- | -------------------- |
+| [Bicycle](https://ciechanow.ski/bicycle/) | forces, cycling, stability | Bartosz Ciechanowski's blog | Bartosz Ciechanowski |
+
 ## Space
 
 | Title                                                                                             | Keywords                                    | Platform                                | Author        |
