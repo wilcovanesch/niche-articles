@@ -12,14 +12,14 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 | Title                                                                               | Keywords                    | Platform          | Author      |
 | ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
-| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, lego | Interaction Magic | George Cave |
+| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, Lego | Interaction Magic | George Cave |
 
 ## Games
 
 | Title                                                                                                                                                                      | Keywords                                                 | Platform                     | Author         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------- | -------------- |
 | [8 Common Horse Mistakes I Want Game Developers to Stop Making](https://www.themanequest.com/blog/2021/8/22/8-common-horse-mistakes-i-want-game-developers-to-stop-making) | game development, biomechanics, horses                   | The Mane Quest               | Alice Walsh    |
-| [Environmental Discs of Tron Roadside Pickup!](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)                                          | gaming history, arcade, tron                             | The Arcade Blogger           | Tony Temple    |
+| [Environmental Discs of Tron Roadside Pickup!](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)                                          | gaming history, arcade, Tron                             | The Arcade Blogger           | Tony Temple    |
 | [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                                                                                                   | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5)                                                                                  | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
 
@@ -29,13 +29,13 @@ This is a collection of deep dives into very specific topics, written or recorde
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------- | --------------- |
 | [My Hardest Bug Ever](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett)          | Crash Bandicoot, Playstation, hardware, debugging | Quora             | Dave Baggett    |
 | [The Great Bug Hunt](https://allenpike.com/2018/the-great-bug-hunt)                                                                   | Xbox, crash, hardware, investigative              | Allen Pike's blog | Allen Pike      |
-| [The Best Debugging Story I've Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard) | Tape drive, hardware, investigative               | Tumblr            | Patrick Thomson |
+| [The Best Debugging Story I've Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard) | tape drive, hardware, investigative               | Tumblr            | Patrick Thomson |
 
 ## History
 
 | Title                                                                                                       | Keywords                            | Platform | Author      |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ----------- |
-| [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, game of thrones | Medium   | Lyman Stone |
+| [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, Game of Thrones | Medium   | Lyman Stone |
 
 ## Music
 
@@ -73,4 +73,4 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 | Title                                                                                        | Keywords                       | Platform | Author         |
 | -------------------------------------------------------------------------------------------- | ------------------------------ | -------- | -------------- |
-| [In Search Of Wikipedia's Shrug Guy](https://defector.com/in-search-of-wikipedias-shrug-guy) | wikipedia, shrugging, whodunit | Defector | Annie Rauwerda |
+| [In Search Of Wikipedia's Shrug Guy](https://defector.com/in-search-of-wikipedias-shrug-guy) | Wikipedia, shrugging, whodunit | Defector | Annie Rauwerda |
