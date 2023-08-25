@@ -61,6 +61,12 @@ This is a collection of deep dives into very specific topics, written or recorde
 | [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative    | ibiblio  | Trey Harris |
 | [Can't stream rock music, only classical](https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging | Reddit   | Mike Ash    |
 
+## Software engineering
+
+| Title                                                                                      | Keywords                                       | Platform    | Author     |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ----------- | ---------- |
+| [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) | build system, deployment system, microservices | GitHub gist | Carl Myers |
+
 ## Technology
 
 | Title                                                                                                                      | Keywords                                           | Platform           | Author       |
