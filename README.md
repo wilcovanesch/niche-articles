@@ -22,6 +22,7 @@ This is a collection of deep dives into very specific topics, written or recorde
 | [Environmental Discs of Tron Roadside Pickup!](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)                                          | gaming history, arcade, Tron                             | The Arcade Blogger           | Tony Temple    |
 | [Explosive barrels](https://www.youtube.com/watch?v=LMYEE8lvlvA) (video)                                                                                                   | gaming history, gaming tropes                            | YouTube                      | Stuart Brown   |
 | [Finding Deceit in the Chambers of Xenobia](https://cgwmuseum.org/columns/index.php?id=5)                                                                                  | gaming history, investigative, forgery, computer history | Computer Gaming World Museum | Stephane Racle |
+| [My full statement regarding DOOM Eternal](https://medium.com/@mickgordon/my-full-statement-regarding-doom-eternal-5f98266b27ce)                                           | soundtrack, dispute, id Software                         | Medium                       | Mick Gordon    |
 
 ## Hardware bugs
 
