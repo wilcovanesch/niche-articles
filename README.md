@@ -58,10 +58,11 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Software bugs
 
-| Title                                                                                                                                           | Keywords                                | Platform | Author      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- | ----------- |
-| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative    | ibiblio  | Trey Harris |
-| [Can't stream rock music, only classical](https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging | Reddit   | Mike Ash    |
+| Title                                                                                                                                           | Keywords                                    | Platform | Author       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------- | ------------ |
+| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative        | ibiblio  | Trey Harris  |
+| [Can't stream rock music, only classical](https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging     | Reddit   | Mike Ash     |
+| [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)                                                                     | air traffic control, algorithm, flight plan | GitHub   | James Haydon |
 
 ## Software engineering
 
