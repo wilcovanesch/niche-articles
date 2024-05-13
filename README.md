@@ -4,9 +4,10 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Art
 
-| Title                                                                                                  | Keywords              | Platform | Author             |
-| ------------------------------------------------------------------------------------------------------ | --------------------- | -------- | ------------------ |
-| [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video) | painting, restoration | YouTube  | Julian Baumgartner |
+| Title                                                                                                   | Keywords              | Platform | Author             |
+| ------------------------------------------------------------------------------------------------------- | --------------------- | -------- | ------------------ |
+| [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video)  | painting, restoration | YouTube  | Julian Baumgartner |
+| [Woodblock Print - start to finish (in real time)](https://www.youtube.com/watch?v=0nCbsbaVbVM) (video) | woodblock printmaking | YouTube  | David Bull         |
 
 ## Design
 
