@@ -68,9 +68,10 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Software engineering
 
-| Title                                                                                      | Keywords                                       | Platform    | Author     |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ----------- | ---------- |
-| [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) | build system, deployment system, microservices | GitHub gist | Carl Myers |
+| Title                                                                                        | Keywords                                       | Platform    | Author        |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------- | ------------- |
+| [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0)   | build system, deployment system, microservices | GitHub gist | Carl Myers    |
+| [One Million Checkboxes](https://eieio.games/blog/the-secret-inside-one-million-checkboxes/) | web development, ascii encoding, bots          | eieio.games | Nolen Royalty |
 
 ## Technology
 
