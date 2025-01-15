@@ -40,6 +40,12 @@ This is a collection of deep dives into very specific topics, written or recorde
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ----------- |
 | [Westeros is Poorly Designed](https://medium.com/migration-issues/westeros-is-poorly-designed-3b01cf5cdcaf) | geography, history, Game of Thrones | Medium   | Lyman Stone |
 
+## Media
+
+| Title                                                                                                       | Keywords                            | Platform | Author      |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ----------- |
+| [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/) | SEO, reviews, independent media | HouseFresh | Gisele Navarro, Danny Ashton |
+
 ## Music
 
 | Title                                                                     | Keywords                            | Platform | Author        |
