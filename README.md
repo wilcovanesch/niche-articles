@@ -82,6 +82,7 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Web culture
 
-| Title                                                                                        | Keywords                       | Platform | Author         |
-| -------------------------------------------------------------------------------------------- | ------------------------------ | -------- | -------------- |
-| [In Search Of Wikipedia's Shrug Guy](https://defector.com/in-search-of-wikipedias-shrug-guy) | Wikipedia, shrugging, whodunit | Defector | Annie Rauwerda |
+| Title                                                                                                  | Keywords                         | Platform   | Author                       |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------- | ---------------------------- |
+| [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/) | Product reviews, experts, Google | HouseFresh | Gisele Navarro, Danny Ashton |
+| [In Search Of Wikipedia's Shrug Guy](https://defector.com/in-search-of-wikipedias-shrug-guy)           | Wikipedia, shrugging, whodunit   | Defector   | Annie Rauwerda               |
