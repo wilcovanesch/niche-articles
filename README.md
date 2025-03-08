@@ -11,9 +11,10 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Design
 
-| Title                                                                               | Keywords                    | Platform          | Author      |
-| ----------------------------------------------------------------------------------- | --------------------------- | ----------------- | ----------- |
-| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/) | user interface design, Lego | Interaction Magic | George Cave |
+| Title                                                                                                | Keywords                    | Platform          | Author         |
+| ---------------------------------------------------------------------------------------------------- | --------------------------- | ----------------- | -------------- |
+| [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) | typography, font, history   | Aresluna          | Marcin Wichary |
+| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)                  | user interface design, Lego | Interaction Magic | George Cave    |
 
 ## Games
 
