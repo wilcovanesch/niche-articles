@@ -75,10 +75,11 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Technology
 
-| Title                                                                                                                      | Keywords                                           | Platform           | Author       |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ | ------------ |
-| [Reversing Sinclair's amazing 1974 calculator hack](http://files.righto.com/calculator/sinclair_scientific_simulator.html) | computer history, reverse engineering, mathematics | Ken Sheriff's blog | Ken Sheriff  |
-| [Wallace's Leaping Tank](https://tanks-encyclopedia.com/wallace-leaping-tank/)                                             | military vehicles, military history, engineering   | Tank Encyclopedia  | Andrew Hills |
+| Title                                                                                                                                     | Keywords                                           | Platform           | Author          |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ | --------------- |
+| [Reversing Sinclair's amazing 1974 calculator hack](http://files.righto.com/calculator/sinclair_scientific_simulator.html)                | computer history, reverse engineering, mathematics | Ken Sheriff's blog | Ken Sheriff     |
+| [Wallace's Leaping Tank](https://tanks-encyclopedia.com/wallace-leaping-tank/)                                                            | military vehicles, military history, engineering   | Tank Encyclopedia  | Andrew Hills    |
+| [Why is there a "small house" in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/) | computer history, glyphs, text art                 | Glyph Drawing Club | Heikki Lotvonen |
 
 ## Web culture
 
