@@ -9,6 +9,12 @@ This is a collection of deep dives into very specific topics, written or recorde
 | [The Restoration of Ave Maria - Narrated Version](https://www.youtube.com/watch?v=5G1C3aBY62E) (video)  | painting, restoration | YouTube  | Julian Baumgartner |
 | [Woodblock Print - start to finish (in real time)](https://www.youtube.com/watch?v=0nCbsbaVbVM) (video) | woodblock printmaking | YouTube  | David Bull         |
 
+## Biology
+
+| Title                                                                                                   | Keywords              | Platform | Author             |
+| ------------------------------------------------------------------------------------------------------- | --------------------- | -------- | ------------------ |
+| [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html) | birds, Charlie's Angels | Slate | Forrest Wickman |
+
 ## Design
 
 | Title                                                                                                | Keywords                    | Platform          | Author         |
