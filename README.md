@@ -70,7 +70,7 @@ This is a collection of deep dives into very specific topics, written or recorde
 | Title                                                                                                                                           | Keywords                                    | Platform | Author       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------- | ------------ |
 | [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative        | ibiblio  | Trey Harris  |
-| [Can't stream rock music, only classical](https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging     | Reddit   | Mike Ash     |
+| [Can't stream rock music, only classical](https://web.archive.org/web/20230601191818/https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging     | Reddit (via Wayback Machine)   | Mike Ash     |
 | [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)                                                                     | air traffic control, algorithm, flight plan | GitHub   | James Haydon |
 
 ## Software engineering
