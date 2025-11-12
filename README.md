@@ -78,6 +78,7 @@ This is a collection of deep dives into very specific topics, written or recorde
 | Title                                                                                      | Keywords                                       | Platform    | Author     |
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ----------- | ---------- |
 | [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) | build system, deployment system, microservices | GitHub gist | Carl Myers |
+| [I Wrote Task Manager - 30 Years Later, the Secrets You Never Knew](https://www.youtube.com/watch?v=yQykvrAR_po) | Windows, task manager, development | YouTube | Dave Plummer |
 
 ## Technology
 
