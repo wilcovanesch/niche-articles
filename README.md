@@ -11,16 +11,17 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Biology
 
-| Title                                                                                                   | Keywords              | Platform | Author             |
-| ------------------------------------------------------------------------------------------------------- | --------------------- | -------- | ------------------ |
-| [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html) | birds, Charlie's Angels | Slate | Forrest Wickman |
+| Title                                                                                                                             | Keywords                | Platform | Author          |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------- | --------------- |
+| [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html) | birds, Charlie's Angels | Slate    | Forrest Wickman |
 
 ## Design
 
-| Title                                                                                                | Keywords                    | Platform          | Author         |
-| ---------------------------------------------------------------------------------------------------- | --------------------------- | ----------------- | -------------- |
-| [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) | typography, font, history   | Aresluna          | Marcin Wichary |
-| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)                  | user interface design, Lego | Interaction Magic | George Cave    |
+| Title                                                                                                | Keywords                    | Platform               | Author          |
+| ---------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------- | --------------- |
+| [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) | typography, font, history   | Aresluna               | Marcin Wichary  |
+| [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)                  | user interface design, Lego | Interaction Magic      | George Cave     |
+| [Velocipedia](https://www.gianlucagimini.it/portfolio-item/velocipedia/)                             | bicycles, drawing, memory   | Gianluca Gimini's blog | Gianluca Gimini |
 
 ## Games
 
@@ -67,18 +68,18 @@ This is a collection of deep dives into very specific topics, written or recorde
 
 ## Software bugs
 
-| Title                                                                                                                                           | Keywords                                    | Platform | Author       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------- | ------------ |
-| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                               | email, bug, debugging, investigative        | ibiblio  | Trey Harris  |
-| [Can't stream rock music, only classical](https://web.archive.org/web/20230601191818/https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging     | Reddit (via Wayback Machine)   | Mike Ash     |
-| [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)                                                                     | air traffic control, algorithm, flight plan | GitHub   | James Haydon |
+| Title                                                                                                                                                                                      | Keywords                                    | Platform                     | Author       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | ---------------------------- | ------------ |
+| [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)                                                                                                          | email, bug, debugging, investigative        | ibiblio                      | Trey Harris  |
+| [Can't stream rock music, only classical](https://web.archive.org/web/20230601191818/https://www.reddit.com/r/talesfromtechsupport/comments/14ulhl/cant_stream_rock_music_only_classical/) | Streaming, audio, disconnect, debugging     | Reddit (via Wayback Machine) | Mike Ash     |
+| [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)                                                                                                                | air traffic control, algorithm, flight plan | GitHub                       | James Haydon |
 
 ## Software engineering
 
-| Title                                                                                      | Keywords                                       | Platform    | Author     |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ----------- | ---------- |
-| [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) | build system, deployment system, microservices | GitHub gist | Carl Myers |
-| [I Wrote Task Manager - 30 Years Later, the Secrets You Never Knew](https://www.youtube.com/watch?v=yQykvrAR_po) | Windows, task manager, development | YouTube | Dave Plummer |
+| Title                                                                                                            | Keywords                                       | Platform    | Author       |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------- | ------------ |
+| [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0)                       | build system, deployment system, microservices | GitHub gist | Carl Myers   |
+| [I Wrote Task Manager - 30 Years Later, the Secrets You Never Knew](https://www.youtube.com/watch?v=yQykvrAR_po) | Windows, task manager, development             | YouTube     | Dave Plummer |
 
 ## Technology
 
